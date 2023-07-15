@@ -1,0 +1,17 @@
+C:\Users\R S\source\repos\EFexam\exmDataLayer\bin\Debug\net6.0\exmDataLayer.deps.json
+C:\Users\R S\source\repos\EFexam\exmDataLayer\bin\Debug\net6.0\exmDataLayer.dll
+C:\Users\R S\source\repos\EFexam\exmDataLayer\bin\Debug\net6.0\exmDataLayer.pdb
+C:\Users\R S\source\repos\EFexam\exmDataLayer\bin\Debug\net6.0\examDomin.dll
+C:\Users\R S\source\repos\EFexam\exmDataLayer\bin\Debug\net6.0\examDomin.pdb
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.csproj.AssemblyReference.cache
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.AssemblyInfoInputs.cache
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.AssemblyInfo.cs
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.csproj.CopyComplete
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.dll
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\refint\exmDataLayer.dll
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.pdb
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\ref\exmDataLayer.dll
+C:\Users\R S\source\repos\EFexam\exmDataLayer\bin\Debug\net6.0\exmDataLayer.runtimeconfig.json
+C:\Users\R S\source\repos\EFexam\exmDataLayer\obj\Debug\net6.0\exmDataLayer.genruntimeconfig.cache
